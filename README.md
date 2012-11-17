@@ -1,2 +1,4 @@
 VaadinAnnotationComponents
 ==========================
+
+License:EPL
